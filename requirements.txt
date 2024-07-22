@@ -1,0 +1,6 @@
+beautifulsoup4==4.10.0
+pymorphy2==0.9.1
+PyMuPDF==1.19.6
+pymystem3==0.2.0
+requests==2.27.1
+wget==3.2
